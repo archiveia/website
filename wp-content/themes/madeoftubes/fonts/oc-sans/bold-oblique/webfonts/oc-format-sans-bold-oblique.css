@@ -1,0 +1,27 @@
+/*
+Font: 		-OC Format Sans
+Style: 		Bd Obl
+URL: 		https://www.youworkforthem.com/font/T11370/oc-format-sans
+Foundry: 	-OtherwhereCollective
+Foundry: 	https://www.youworkforthem.com/designer/1241/otherwherecollective
+Copyright:	Copyright © 2019 by Andrew Bellamy. All rights reserved. 
+Version: 	17
+Created:	October 04, 2019
+License: 	https://www.youworkforthem.com/font-license 
+License: 	The WebFont(s) listed in this document must follow the YouWorkForThem
+			WebFont license rules. All other parties are strictly restricted 
+			from using the WebFonts(s) listed without a purchased license. 
+			All details above must always remain unaltered and visible in your CSS.
+*/
+
+@font-face {
+	font-family: '-OCFormatSans-BdObl';
+	src: url('oc-format-sans-bold-oblique.eot');
+	src: url('oc-format-sans-bold-oblique.eot?#iefix') format('embedded-opentype'),
+             url('oc-format-sans-bold-oblique.woff2') format('woff2'),
+	     url('oc-format-sans-bold-oblique.woff') format('woff'),
+	     url('oc-format-sans-bold-oblique.ttf') format('truetype'),
+	     url('oc-format-sans-bold-oblique.svg#youworkforthem') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg data-name="Layer 1" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg">
+  <path d="M 24.15 29.4 L 24.15 29.24 C 24.173 26.972 24.951 24.777 26.36 23 C 28.847 19.773 28.484 15.186 25.52 12.39 C 21.132 8.069 13.712 10.118 12.164 16.079 C 12.012 16.661 11.927 17.259 11.91 17.86 C 11.848 19.713 12.431 21.53 13.56 23 C 14.981 24.755 15.76 26.942 15.77 29.2 L 15.77 29.36 M 15.71 31.83 L 24.21 31.83 M 16.67 35.08 L 23.24 35.08 M 16.67 35.08 L 20.37 35.08" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.5" opacity=".6"/>
+  <path fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.5" opacity=".5" d="M 19.96 29.4 L 19.96 21.42 M 19.96 29.4 L 19.96 26.25"/>
+  <circle cx="19.96" cy="19.79" r="1.63" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.5" opacity=".9"/>
+  <path fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" opacity=".5" d="M 12.503 32.485 L 11.254 28.416 L 7.219 27.057 L 8.168 22.902 L 5.355 19.705 L 8.253 16.584 L 7.416 12.403 L 11.485 11.155 L 12.844 7.12 L 16.999 8.069 L 20.196 5.247 L 23.317 8.154 L 27.497 7.308 L 28.746 11.386 L 32.781 12.746 L 31.832 16.901 L 34.645 20.098 L 31.747 23.218 L 32.584 27.39 L 28.515 28.647 L 27.156 32.683" style=""/>
+  <path fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" opacity=".5" d="M 37.13 20.29 L 33.74 23.94 L 34.72 28.82 L 29.96 30.29 L 28.37 35.01 M 11.23 34.78 L 9.77 30.02 L 5.05 28.43 L 6.16 23.57 L 2.87 19.83"/>
+</svg>

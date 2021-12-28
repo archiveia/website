@@ -1,0 +1,9 @@
+Sitemap: https://internetassociation.org/sitemap_index.xml
+
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+Disallow: /email-signature-generator
+Disallow: /wp-content/uploads/2017/01/chris-sig.png
+

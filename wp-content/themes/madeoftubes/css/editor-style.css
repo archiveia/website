@@ -1,0 +1,33 @@
+@import url(../css/style.css);
+.wp-block, .editor-styles-wrapper { }
+
+.wp-block p, .wp-block body, .editor-styles-wrapper p, .editor-styles-wrapper body { font-family: "IBM Plex Sans",-apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif; }
+
+.wp-block em, .editor-styles-wrapper em { font-style: italic; }
+
+#post-title-0 { font-family: "-OC Format Sans", Helvetica, Arial, sans-serif; }
+
+/* Main column width */
+.wp-block { max-width: 720px; }
+
+/* Width of "wide" blocks */
+.wp-block[data-align="wide"] { max-width: 1080px; }
+
+/* Width of "full-wide" blocks */
+.wp-block[data-align="full"] { max-width: none; }
+
+.editor-styles-wrapper p { margin-top: unset !important; }
+
+body#tinymce, .mce-content-body { background-color: white !important; padding: 1em !important; }
+
+#tinymce p { margin-bottom: var(--space-md); }
+
+body#tinymce.wp-autoresize { padding: 1em !important; }
+
+ul { font-family: var(--font-primary); }
+
+ul.image-list { list-style: none !important; }
+
+ul.image-list li::before, .text-component ul.image-list li::before { height: 15px; width: 15px; border: 8px solid #d4dcec; }
+
+/*# sourceMappingURL=editor-style.css.map */

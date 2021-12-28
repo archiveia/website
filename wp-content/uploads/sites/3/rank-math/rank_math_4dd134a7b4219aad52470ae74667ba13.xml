@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//covid19.internetassociation.org/main-sitemap.xsl"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc>https://covid19.internetassociation.org/industry/response/</loc>
+		<lastmod>2021-05-03T23:19:09+00:00</lastmod>
+		<image:image>
+			<image:loc>https://covid19.internetassociation.org/wp-content/uploads/sites/3/2020/04/fair-pricing-1pager.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://covid19.internetassociation.org/wp-content/uploads/sites/3/2020/03/IA_IA-Member-Company-Efforts-To-Ensure-Fair-Pricing-pdf.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://covid19.internetassociation.org/wp-content/uploads/sites/3/2020/05/ia_cares-act-implementation-leg-priorities.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://covid19.internetassociation.org/positions/</loc>
+		<lastmod>2021-05-03T23:19:09+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://covid19.internetassociation.org/industry/response/education/</loc>
+		<lastmod>2020-12-01T21:07:27+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://covid19.internetassociation.org/industry/response/help-local-communities/</loc>
+		<lastmod>2020-07-14T05:20:07+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://covid19.internetassociation.org/industry/response/work-with-healthcare-institutions/</loc>
+		<lastmod>2020-07-14T05:19:46+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://covid19.internetassociation.org/industry/response/support-workers/</loc>
+		<lastmod>2020-07-14T05:19:28+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://covid19.internetassociation.org/industry/response/protect-internet-users/</loc>
+		<lastmod>2020-07-14T05:19:07+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://covid19.internetassociation.org/industry/response/partner-with-government/</loc>
+		<lastmod>2020-07-14T04:29:16+00:00</lastmod>
+	</url>
+</urlset>

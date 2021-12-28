@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg data-name="Layer 1" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg">
+  <path d="M 32.209 21.335 L 28.269 22.115 C 27.185 22.34 26.743 23.649 27.469 24.485 L 30.119 27.485 C 30.848 28.32 32.208 28.052 32.566 27.003 C 32.567 27.001 32.568 26.998 32.569 26.995 L 33.849 23.195 C 34.202 22.152 33.294 21.118 32.215 21.334 C 32.213 21.334 32.211 21.335 32.209 21.335 Z" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.5" opacity=".6"/>
+  <path d="M 12.739 12.015 C 10.436 14.01 9.052 16.862 8.909 19.905 M 30.979 17.935 C 30.347 15.209 28.717 12.818 26.409 11.235 M 16.689 31.115 C 20.089 32.201 23.802 31.603 26.689 29.505" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" opacity=".5"/>
+  <circle cx="19.719" cy="9.365" r="3.94" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.5" opacity=".6"/>
+  <rect x="7.09" y="24.32" width="7.32" height="7.32" rx="1.44" transform="matrix(0.866025, -0.5, 0.5, 0.866025, -12.341693, 7.654959)" opacity=".6" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.5" fill="none"/>
+  <path d="M 30.969 17.935 C 30.628 16.491 29.999 15.13 29.119 13.935 M 12.739 12.015 C 11.67 12.949 10.784 14.075 10.129 15.335" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" opacity=".5"/>
+</svg>

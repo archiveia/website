@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg id="uk-digital-nation-avatar-blob" viewBox="0 0 90 90" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <clipPath id="clip-path">
+      <circle cx="44.98" cy="45.21" r="22.66" fill="none"/>
+    </clipPath>
+  </defs>
+  <circle cx="44.961" cy="45.057" r="44.99" fill="#4a93fb" class="donut-hole" />
+  <circle cx="44.961" cy="45.267" r="22.66" fill="#87b7fd" class="donut-hole" />
+  <path d="M 32.371 30.267 C 32.371 20.575 42.863 14.518 51.256 19.364 C 55.152 21.613 57.551 25.769 57.551 30.267 C 57.551 37.217 51.911 45.367 44.961 45.367 C 38.011 45.367 32.371 37.217 32.371 30.267 Z" fill="#fff" class="donut-ring" />
+  <g clip-path="url(#clip-path)" transform="matrix(1, 0, 0, 1, -0.018612, 0.057251)">
+    <path d="M52.53,51.27H37.43A15.12,15.12,0,0,0,22.32,66.38V68.9S30.19,71.41,45,71.41,67.64,68.9,67.64,68.9V66.38A15.11,15.11,0,0,0,52.53,51.27Z" fill="#fff" class="donut-ring" />
+  </g>
+</svg>

@@ -1,0 +1,18 @@
+{
+    "browserSyncOptions" : {
+      "proxy": "https://dev.internetassn.com",
+      "notify": false
+    },
+    "browserSyncWatchFiles" : [
+      "./css/*.css",
+      "./js/*.min.js",
+      "./**/*.php"
+    ],
+    "paths" : {
+      "js": "./js",
+      "css": "./css",
+      "sass": "./scss",
+      "node": "./node_modules/",
+      "base": "./"
+    }
+  }

@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//internetassociation.org/main-sitemap.xsl"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc>https://internetassociation.org/our-members/</loc>
+		<lastmod>2021-12-06T10:57:18-05:00</lastmod>
+	</url>
+	<url>
+		<loc>https://internetassociation.org/our-members/meta/</loc>
+		<lastmod>2021-12-06T10:57:18-05:00</lastmod>
+		<image:image>
+			<image:loc>https://internetassociation.org/wp-content/uploads/2021/12/meta-logo.svg</image:loc>
+			<image:title><![CDATA[meta-logo]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://internetassociation.org/our-members/grubhub/</loc>
+		<lastmod>2021-12-06T10:55:06-05:00</lastmod>
+		<image:image>
+			<image:loc>https://internetassociation.org/wp-content/uploads/2021/12/grubhub-logo.svg</image:loc>
+			<image:title><![CDATA[grubhub-logo]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://internetassociation.org/our-members/waymo/</loc>
+		<lastmod>2021-12-06T10:54:17-05:00</lastmod>
+		<image:image>
+			<image:loc>https://internetassociation.org/wp-content/uploads/2021/12/waymo-logo.svg</image:loc>
+			<image:title><![CDATA[waymo-logo]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://internetassociation.org/our-members/rocket-mortgage/</loc>
+		<lastmod>2021-08-11T12:04:43-04:00</lastmod>
+		<image:image>
+			<image:loc>https://internetassociation.org/wp-content/uploads/2017/09/rocketmortgage.svg</image:loc>
+			<image:title><![CDATA[rocketmortgage]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://internetassociation.org/our-members/newsbreak/</loc>
+		<lastmod>2021-07-29T10:21:49-04:00</lastmod>
+		<image:image>
+			<image:loc>https://internetassociation.org/wp-content/uploads/2021/07/newsbreak.svg</image:loc>
+			<image:title><![CDATA[newsbreak]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://internetassociation.org/our-members/discord/</loc>
+		<lastmod>2021-05-19T12:02:08-04:00</lastmod>
+		<image:image>
+			<image:loc>https://internetassociation.org/wp-content/uploads/2020/12/discord.svg</image:loc>
+			<image:title><![CDATA[discord]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://internetassociation.org/our-members/facebook/</loc>
+		<lastmod>2021-03-03T20:14:53-05:00</lastmod>
+		<image:image>
+			<image:loc>https://internetassociation.org/wp-content/uploads/2013/05/facebook.svg</image:loc>
+			<image:title><![CDATA[facebook]]></image:title>
+			<image:caption><![CDATA[Facebook Logo]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://internetassociation.org/our-members/ancestry/</loc>
+		<lastmod>2021-03-03T20:08:10-05:00</lastmod>
+		<image:image>
+			<image:loc>https://internetassociation.org/wp-content/uploads/2019/02/ancestry.svg</image:loc>
+			<image:title><![CDATA[ancestry]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://internetassociation.org/our-members/amazon/</loc>
+		<lastmod>2021-03-03T20:08:09-05:00</lastmod>
+		<image:image>
+			<image:loc>https://internetassociation.org/wp-content/uploads/2013/06/amazon.svg</image:loc>
+			<image:title><![CDATA[amazon]]></image:title>
+			<image:caption><![CDATA[Amazon Logo]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://internetassociation.org/our-members/airbnb/</loc>
+		<lastmod>2021-03-03T20:08:07-05:00</lastmod>
+		<image:image>
+			<image:loc>https://internetassociation.org/wp-content/uploads/2013/06/airbnb.svg</image:loc>
+			<image:title><![CDATA[airbnb]]></image:title>
+			<image:caption><![CDATA[Airbnb Logo]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://internetassociation.org/our-members/doordash/</loc>
+		<lastmod>2021-03-03T20:06:58-05:00</lastmod>
+		<image:image>
+			<image:loc>https://internetassociation.org/wp-content/uploads/2016/03/doordash-1.svg</image:loc>
+			<image:title><![CDATA[doordash]]></image:title>
+			<image:caption><![CDATA[Doordash Logo]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://internetassociation.org/our-members/dropbox/</loc>
+		<lastmod>2021-03-03T20:06:56-05:00</lastmod>
+		<image:image>
+			<image:loc>https://internetassociation.org/wp-content/uploads/2015/09/dropbox-1.svg</image:loc>
+			<image:title><![CDATA[dropbox]]></image:title>
+			<image:caption><![CDATA[Dropbox Logo]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://internetassociation.org/our-members/ebay/</loc>
+		<lastmod>2021-03-03T20:06:55-05:00</lastmod>
+		<image:image>
+			<image:loc>https://internetassociation.org/wp-content/uploads/2013/06/ebay.svg</image:loc>
+			<image:title><![CDATA[ebay]]></image:title>
+			<image:caption><![CDATA[Ebay Logo]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://internetassociation.org/our-members/eventbrite/</loc>
+		<lastmod>2021-03-03T20:06:53-05:00</lastmod>
+		<image:image>
+			<image:loc>https://internetassociation.org/wp-content/uploads/2017/12/eventbrite.svg</image:loc>
+			<image:title><![CDATA[eventbrite]]></image:title>
+			<image:caption><![CDATA[Eventbrite Logo]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://internetassociation.org/our-members/expedia/</loc>
+		<lastmod>2021-03-03T20:06:48-05:00</lastmod>
+		<image:image>
+			<image:loc>https://internetassociation.org/wp-content/uploads/2013/05/expediagroup.svg</image:loc>
+			<image:title><![CDATA[expediagroup]]></image:title>
+			<image:caption><![CDATA[Expedia Group Logo]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://internetassociation.org/our-members/google/</loc>
+		<lastmod>2021-03-03T20:06:17-05:00</lastmod>
+		<image:image>
+			<image:loc>https://internetassociation.org/wp-content/uploads/2013/05/Google.svg</image:loc>
+			<image:title><![CDATA[Google]]></image:title>
+			<image:caption><![CDATA[Google Logo]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://internetassociation.org/our-members/handy/</loc>
+		<lastmod>2021-03-03T20:06:13-05:00</lastmod>
+		<image:image>
+			<image:loc>https://internetassociation.org/wp-content/uploads/2015/10/handy.svg</image:loc>
+			<image:title><![CDATA[handy]]></image:title>
+			<image:caption><![CDATA[Handy Logo]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://internetassociation.org/our-members/iac/</loc>
+		<lastmod>2021-03-03T20:06:11-05:00</lastmod>
+		<image:image>
+			<image:loc>https://internetassociation.org/wp-content/uploads/2013/05/IAC.svg</image:loc>
+			<image:title><![CDATA[IAC]]></image:title>
+			<image:caption><![CDATA[IAC Logo]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://internetassociation.org/our-members/indeed/</loc>
+		<lastmod>2021-03-03T20:06:10-05:00</lastmod>
+		<image:image>
+			<image:loc>https://internetassociation.org/wp-content/uploads/2019/05/indeed.svg</image:loc>
+			<image:title><![CDATA[indeed]]></image:title>
+			<image:caption><![CDATA[Indeed logo]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://internetassociation.org/our-members/intuit/</loc>
+		<lastmod>2021-03-03T20:06:07-05:00</lastmod>
+		<image:image>
+			<image:loc>https://internetassociation.org/wp-content/uploads/2015/05/intuit.svg</image:loc>
+			<image:title><![CDATA[intuit]]></image:title>
+			<image:caption><![CDATA[Intuit Logo]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://internetassociation.org/our-members/linkedin/</loc>
+		<lastmod>2021-03-03T20:06:06-05:00</lastmod>
+		<image:image>
+			<image:loc>https://internetassociation.org/wp-content/uploads/2013/05/linkedin.svg</image:loc>
+			<image:title><![CDATA[linkedin]]></image:title>
+			<image:caption><![CDATA[LinkedIn Logo]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://internetassociation.org/our-members/matchgroup/</loc>
+		<lastmod>2021-03-03T20:06:04-05:00</lastmod>
+		<image:image>
+			<image:loc>https://internetassociation.org/wp-content/uploads/2016/11/matchgroup.svg</image:loc>
+			<image:title><![CDATA[matchgroup]]></image:title>
+			<image:caption><![CDATA[Matchgroup Logo]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://internetassociation.org/our-members/microsoft/</loc>
+		<lastmod>2021-03-03T20:06:02-05:00</lastmod>
+		<image:image>
+			<image:loc>https://internetassociation.org/wp-content/uploads/2017/01/microsoft.svg</image:loc>
+			<image:title><![CDATA[microsoft]]></image:title>
+			<image:caption><![CDATA[Microsoft Logo]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://internetassociation.org/our-members/notarize/</loc>
+		<lastmod>2021-03-03T20:05:30-05:00</lastmod>
+		<image:image>
+			<image:loc>https://internetassociation.org/wp-content/uploads/2021/01/notarize.svg</image:loc>
+			<image:title><![CDATA[notarize]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://internetassociation.org/our-members/pinterest/</loc>
+		<lastmod>2021-03-03T20:05:28-05:00</lastmod>
+		<image:image>
+			<image:loc>https://internetassociation.org/wp-content/uploads/2015/03/pinterest.svg</image:loc>
+			<image:title><![CDATA[pinterest]]></image:title>
+			<image:caption><![CDATA[Pinterest logo]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://internetassociation.org/our-members/rackspace/</loc>
+		<lastmod>2021-03-03T20:05:24-05:00</lastmod>
+		<image:image>
+			<image:loc>https://internetassociation.org/wp-content/uploads/2013/04/rackspace.svg</image:loc>
+			<image:title><![CDATA[rackspace]]></image:title>
+			<image:caption><![CDATA[Rackspace logo]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://internetassociation.org/our-members/rakuten/</loc>
+		<lastmod>2021-03-03T20:05:23-05:00</lastmod>
+		<image:image>
+			<image:loc>https://internetassociation.org/wp-content/uploads/2018/10/rakuten.svg</image:loc>
+			<image:title><![CDATA[rakuten]]></image:title>
+			<image:caption><![CDATA[Rakuten Logo]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://internetassociation.org/our-members/reddit/</loc>
+		<lastmod>2021-03-03T20:05:21-05:00</lastmod>
+		<image:image>
+			<image:loc>https://internetassociation.org/wp-content/uploads/2013/04/reddit.svg</image:loc>
+			<image:title><![CDATA[reddit]]></image:title>
+			<image:caption><![CDATA[Reddit logo]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://internetassociation.org/our-members/snapchat/</loc>
+		<lastmod>2021-03-03T20:05:19-05:00</lastmod>
+		<image:image>
+			<image:loc>https://internetassociation.org/wp-content/uploads/2015/03/snap-inc.svg</image:loc>
+			<image:title><![CDATA[snap inc]]></image:title>
+			<image:caption><![CDATA[Snap Logo]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://internetassociation.org/our-members/spotify/</loc>
+		<lastmod>2021-03-03T20:05:17-05:00</lastmod>
+		<image:image>
+			<image:loc>https://internetassociation.org/wp-content/uploads/2013/01/spotify.svg</image:loc>
+			<image:title><![CDATA[spotify]]></image:title>
+			<image:caption><![CDATA[Spotify Logo]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://internetassociation.org/our-members/stripe/</loc>
+		<lastmod>2021-03-03T20:05:16-05:00</lastmod>
+		<image:image>
+			<image:loc>https://internetassociation.org/wp-content/uploads/2018/08/stripe.svg</image:loc>
+			<image:title><![CDATA[stripe]]></image:title>
+			<image:caption><![CDATA[Stripe Logo]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://internetassociation.org/our-members/surveymonkey/</loc>
+		<lastmod>2021-03-03T20:05:14-05:00</lastmod>
+		<image:image>
+			<image:loc>https://internetassociation.org/wp-content/uploads/2013/04/surveyMonkey.svg</image:loc>
+			<image:title><![CDATA[surveyMonkey]]></image:title>
+			<image:caption><![CDATA[Surveymonkey Logo]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://internetassociation.org/our-members/thumbtack/</loc>
+		<lastmod>2021-03-03T20:04:34-05:00</lastmod>
+		<image:image>
+			<image:loc>https://internetassociation.org/wp-content/uploads/2017/08/thumbtack.svg</image:loc>
+			<image:title><![CDATA[thumbtack]]></image:title>
+			<image:caption><![CDATA[Thumbtack Logo]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://internetassociation.org/our-members/tripadvisor/</loc>
+		<lastmod>2021-03-03T20:04:32-05:00</lastmod>
+		<image:image>
+			<image:loc>https://internetassociation.org/wp-content/uploads/2013/01/TripAdvisor.svg</image:loc>
+			<image:title><![CDATA[TripAdvisor]]></image:title>
+			<image:caption><![CDATA[Tripadvisor Logo]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://internetassociation.org/our-members/turo/</loc>
+		<lastmod>2021-03-03T20:04:31-05:00</lastmod>
+		<image:image>
+			<image:loc>https://internetassociation.org/wp-content/uploads/2013/01/turo.svg</image:loc>
+			<image:title><![CDATA[turo]]></image:title>
+			<image:caption><![CDATA[Turo Logo]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://internetassociation.org/our-members/twitter/</loc>
+		<lastmod>2021-03-03T20:04:29-05:00</lastmod>
+		<image:image>
+			<image:loc>https://internetassociation.org/wp-content/uploads/2013/01/twitter.svg</image:loc>
+			<image:title><![CDATA[twitter]]></image:title>
+			<image:caption><![CDATA[Twitter Logo]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://internetassociation.org/our-members/upwork/</loc>
+		<lastmod>2021-03-03T20:04:27-05:00</lastmod>
+		<image:image>
+			<image:loc>https://internetassociation.org/wp-content/uploads/2013/01/upwork.svg</image:loc>
+			<image:title><![CDATA[upwork]]></image:title>
+			<image:caption><![CDATA[Upwork Logo]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://internetassociation.org/our-members/vrbo/</loc>
+		<lastmod>2021-03-03T20:04:26-05:00</lastmod>
+		<image:image>
+			<image:loc>https://internetassociation.org/wp-content/uploads/2017/07/VRBO.svg</image:loc>
+			<image:title><![CDATA[VRBO]]></image:title>
+			<image:caption><![CDATA[Vrbo Logo]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://internetassociation.org/our-members/zillow-group/</loc>
+		<lastmod>2021-03-03T20:04:23-05:00</lastmod>
+		<image:image>
+			<image:loc>https://internetassociation.org/wp-content/uploads/2017/08/zillowgroup.svg</image:loc>
+			<image:title><![CDATA[zillowgroup]]></image:title>
+			<image:caption><![CDATA[Zillow logo]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://internetassociation.org/our-members/ziprecruiter/</loc>
+		<lastmod>2021-03-03T20:04:14-05:00</lastmod>
+		<image:image>
+			<image:loc>https://internetassociation.org/wp-content/uploads/2019/09/ziprecruiter.svg</image:loc>
+			<image:title><![CDATA[ziprecruiter]]></image:title>
+			<image:caption><![CDATA[ZipRecruiter logo]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://internetassociation.org/our-members/uber/</loc>
+		<lastmod>2020-07-14T20:14:24-04:00</lastmod>
+		<image:image>
+			<image:loc>https://internetassociation.org/wp-content/uploads/2013/04/uber.svg</image:loc>
+			<image:title><![CDATA[uber]]></image:title>
+			<image:caption><![CDATA[Uber Logo]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://internetassociation.org/our-members/paypal/</loc>
+		<lastmod>2020-07-14T20:12:40-04:00</lastmod>
+		<image:image>
+			<image:loc>https://internetassociation.org/wp-content/uploads/2013/01/paypal.svg</image:loc>
+			<image:title><![CDATA[paypal]]></image:title>
+			<image:caption><![CDATA[PayPal Logo]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://internetassociation.org/our-members/etsy-2/</loc>
+		<lastmod>2020-07-14T20:10:37-04:00</lastmod>
+		<image:image>
+			<image:loc>https://internetassociation.org/wp-content/uploads/2013/05/etsy.svg</image:loc>
+			<image:title><![CDATA[etsy]]></image:title>
+			<image:caption><![CDATA[Etsy Logo]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://internetassociation.org/our-members/postmates/</loc>
+		<lastmod>2020-04-01T17:04:13-04:00</lastmod>
+		<image:image>
+			<image:loc>https://internetassociation.org/wp-content/uploads/2018/10/postmates.svg</image:loc>
+			<image:title><![CDATA[postmates]]></image:title>
+			<image:caption><![CDATA[Postmates Logo]]></image:caption>
+		</image:image>
+	</url>
+</urlset>

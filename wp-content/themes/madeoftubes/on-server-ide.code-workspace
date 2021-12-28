@@ -1,0 +1,27 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "/var/www/html/ia.test/public_html"
+		},
+		{
+			"path": "/var/www/html/ia.test/public_html/wp-content/themes/covidresponse"
+		},
+		{
+			"path": "../../../.git"
+		},
+		{
+			"path": "../../../privacy"
+		}
+	],
+	"settings": {
+		"sync.removeExtensions": false,
+		"sync.syncExtensions": false,
+		"sync.autoDownload": true,
+		"sync.autoUpload": true,
+		"sync.gist": "00a47f641910510f0a79cfaeff005b09",
+		"sync.quietSync": true
+	}
+}

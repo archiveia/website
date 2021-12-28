@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//uk.internetassociation.org/main-sitemap.xsl"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc>https://uk.internetassociation.org/publications/</loc>
+		<lastmod>2021-07-19T20:49:41+01:00</lastmod>
+	</url>
+	<url>
+		<loc>https://uk.internetassociation.org/publications/3i-report-uk-jobs-q2-2021/</loc>
+		<lastmod>2021-07-19T20:49:41+01:00</lastmod>
+	</url>
+	<url>
+		<loc>https://uk.internetassociation.org/publications/3i-report-uk-jobs-q1-2021/</loc>
+		<lastmod>2021-04-19T14:45:37+01:00</lastmod>
+	</url>
+	<url>
+		<loc>https://uk.internetassociation.org/publications/3i-report-uk-jobs-q4-2020/</loc>
+		<lastmod>2021-01-21T18:42:36+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://uk.internetassociation.org/publications/3i-uk-jobs-october-2020-3/</loc>
+		<lastmod>2021-01-21T18:41:33+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://uk.internetassociation.org/publications/the-economic-contributions-of-the-internet-in-uk-constituencies/</loc>
+		<lastmod>2020-11-24T15:23:17+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://uk.internetassociation.org/publications/digital-trade-priorities-for-a-us-uk-fta/</loc>
+		<lastmod>2020-11-24T15:21:50+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://uk.internetassociation.org/publications/uk-charter/</loc>
+		<lastmod>2020-11-24T15:17:25+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://uk.internetassociation.org/publications/uk-digital-nation-an-internet-enabled-recovery/</loc>
+		<lastmod>2020-08-19T05:53:46+01:00</lastmod>
+	</url>
+	<url>
+		<loc>https://uk.internetassociation.org/publications/measuring-the-uk-internet-sector/</loc>
+		<lastmod>2020-07-07T20:04:28+01:00</lastmod>
+	</url>
+</urlset>

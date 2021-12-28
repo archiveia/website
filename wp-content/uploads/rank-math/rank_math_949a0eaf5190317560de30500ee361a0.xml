@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//internetassociation.org/main-sitemap.xsl"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc>https://internetassociation.org/resources/</loc>
+		<lastmod>2021-07-22T12:27:08-04:00</lastmod>
+	</url>
+	<url>
+		<loc>https://internetassociation.org/resources/ia-comments-on-foreign-digital-censorship/</loc>
+		<lastmod>2021-07-22T12:27:08-04:00</lastmod>
+	</url>
+	<url>
+		<loc>https://internetassociation.org/resources/internet-association-members-efforts-bridge-digital-gap-education/</loc>
+		<lastmod>2020-12-04T11:36:53-05:00</lastmod>
+		<image:image>
+			<image:loc>https://internetassociation.org/wp-content/uploads/2020/11/IA_Member-Efforts-To-Bridge-The-Digital-Gap-In-Education-pdf-image.jpg</image:loc>
+			<image:title><![CDATA[IA Members' Efforts To Bridge The Digital Gap In Education-thumbnail]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://internetassociation.org/resources/how-section-230-enables-content-moderation/</loc>
+		<lastmod>2020-10-26T10:02:40-04:00</lastmod>
+		<image:image>
+			<image:loc>https://internetassociation.org/wp-content/uploads/2020/07/230-vid-bg@2x-100-scaled.jpg</image:loc>
+			<image:title><![CDATA[230-vid-bg@2x-100]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://internetassociation.org/wp-content/uploads/2019/02/icon_content-moderation.svg</image:loc>
+		</image:image>
+	</url>
+</urlset>

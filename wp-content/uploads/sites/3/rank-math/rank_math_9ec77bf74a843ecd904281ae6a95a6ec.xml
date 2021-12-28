@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//covid19.internetassociation.org/main-sitemap.xsl"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<sitemap>
+		<loc>https://covid19.internetassociation.org/actions-sitemap.xml</loc>
+		<lastmod>2020-11-24T17:02:48+00:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://covid19.internetassociation.org/policy-sitemap.xml</loc>
+		<lastmod>2021-05-03T23:19:09+00:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://covid19.internetassociation.org/local-sitemap.xml</loc>
+		<lastmod>2021-07-01T20:51:30+00:00</lastmod>
+	</sitemap>
+</sitemapindex>
